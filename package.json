@@ -1,0 +1,24 @@
+{
+  "name": "memocard",
+  "version": "1.0.0",
+  "description": "A simple flashcard web application with multi account support, built with Express.js, MongoDB and a template engine (Pug).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natetann/MemoCard.git"
+  },
+  "author": "Nathan Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natetann/MemoCard/issues"
+  },
+  "homepage": "https://github.com/natetann/MemoCard#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.1"
+  }
+}
